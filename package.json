@@ -1,0 +1,22 @@
+{
+  "name": "html_button_sample",
+  "version": "1.0.0",
+  "description": "html_button_sample",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDGENortheastern/html_button_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EDGENortheastern/html_button_sample/issues"
+  },
+  "homepage": "https://github.com/EDGENortheastern/html_button_sample#readme",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
